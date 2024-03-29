@@ -1,0 +1,1 @@
+(1) hover navbar does not work.
